@@ -1,0 +1,25 @@
+h1 {
+    font-size: 100px;
+    font-weight: 100;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+.header {
+    background-color: #FFF455;
+    color: #219C90;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.shadow {
+    box-shadow: 5px 0 #ccc;
+}
+
+#root {
+    font-family: "Raleway", sans-serif;
+}
